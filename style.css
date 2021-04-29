@@ -1,0 +1,33 @@
+.contenedor {
+    background-color: cadetblue;
+    text-align      : center;
+    display: flex;
+}
+
+
+.seccion-arriba {
+    margin          : 20px;
+    background-color: white;
+    border          : 3px solid gray;
+    height          : 150px;
+    width           : 150px;
+    padding         : 20px;
+}
+
+
+.imagen {
+    width: 150px;
+    height: auto;
+    text-align: center;
+    display: inline-block;
+}
+
+
+.texto {
+
+    text-align: end;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
